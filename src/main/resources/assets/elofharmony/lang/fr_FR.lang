@@ -1,16 +1,13 @@
-elofharmony.configgui.ctgy.general.tooltip=Options générales
-elofharmony.configgui.ctgy.poisonjoke.tooltip=L'usine de plaisanterie douteuse
-
 itemGroup.elofharmony=Elements of Harmony
 
 tile.elofharmony:poisonjoke.name=Plaisanterie douteuse
-tile.elofharmony:log_flutter.name=Rontin de flottement
-tile.elofharmony:leaves_flutter.name=Feuilles de flottement
-tile.elofharmony:sapling_flutter.name=Pousse de flottement
-tile.elofharmony:planks_flutter.name=Plaches de flottement
-tile.elofharmony:slab_flutter.name=Dalle de flottement
-tile.elofharmony:stairs_flutter.name=Escaliers de flottement
-tile.elofharmony:ritual_table.name=Table d'harmonie
+tile.elofharmony:log_flutter.name=Rondin flottant
+tile.elofharmony:leaves_flutter.name=Feuilles flottantes
+tile.elofharmony:sapling_flutter.name=Pousse flottante
+tile.elofharmony:planks_flutter.name=Planches flottantes
+tile.elofharmony:slab_flutter.name=Dalle flottante
+tile.elofharmony:stairs_flutter.name=Escaliers flottants
+tile.elofharmony:ritual_table.name=Table de défi
 
 item.elofharmony:element_honesty.name=Élément d'honnêteté
 item.elofharmony:element_kindness.name=Élément de bonté
@@ -20,3 +17,26 @@ item.elofharmony:element_generosity.name=Élément de générosité
 item.elofharmony:element_magic.name=Élément de magie
 item.elofharmony:twilicane.name=Canne de crépuscule
 item.elofharmony:yellow_feather.name=Plume jaune
+
+elofharmony.container.locker=Locker
+
+elofharmony.challenge.failed=Vous avez perdu le défi !
+elofharmony.challenge.success=Félicitations, vous avez complété le défi !
+elofharmony.challenge.no_challenge=Vous n'avez pas de défi en cour en ce moment.
+elofharmony.challenge.twilicane_tooltip=S'accroupir + Clique droit pour annuler le defi actuel.
+
+elofharmony.challenge.generosity.no_items_allowed=Pour commencer le défi de générosité, vous n'êtes pas autorisés d'avoir d'objets sur vous en plus de la canne de crépuscule.
+elofharmony.challenge.generosity.start0=Le défi de générosité est lancé !
+elofharmony.challenge.generosity.start1=Vous devez retourner à la table des défi sans mourir.
+elofharmony.challenge.generosity.start2=Vous ne pouvez pas récupérer d'objet durant le défi.
+
+elofharmony.challenge.kindness.start=Le défi de bonté est lancé !
+elofharmony.challenge.kindness.no_items_allowed=Pour commencer le défi de bonté, vous n'êtes pas autorisés d'avoir d'objets sur vous en plus de la canne de crépuscule et de la plume jaune.
+elofharmony.challenge.kindness.flat_ground=Pour commencer le défi de bonté,  le sol autour de la table table doit-être plat.
+
+elofharmony.challenge.laughter.start0=Le défi de rire est lancé !
+elofharmony.challenge.laughter.start1=Vous devez minez %d pierres en %s secondes.
+elofharmony.challenge.laughter.no_items_allowed=Pour commencer le défi de rire,  vous n'êtes pas autorisés d'avoir d'objets sur vous ormis la canne de crépuscule, un outil complètement banal et de la pierre.
+elofharmony.challenge.laughter.time=Temps: %s s
+elofharmony.challenge.laughter.mined=Pierre minée : %d
+
